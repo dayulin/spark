@@ -4,7 +4,7 @@
 		module="sparkclass$sources_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20171223085059"
+		publication="20171223135646"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

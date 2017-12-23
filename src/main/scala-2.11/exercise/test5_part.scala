@@ -22,6 +22,9 @@ object test5_part {
       val paa=listsrdd.map(xx=>(xx,xx*xx))
       val ree= paa.reduceByKey((vv,bb)=>vv+bb)
       val finrdd=ree.mapPartitions(ii=>ii.map({case(key,valu)=>"key"+key+",Value"+valu}))
+
+
+
     }
 
 }

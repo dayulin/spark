@@ -17,7 +17,7 @@ object test07_file {
             blankLine+=1;
           lineDAta.split(" ")
         })
-    records.saveAsTextFile("/home/sparkclass/testOutputDir1")
+    records.saveAsTextFile("/home/sparkclass/testOutputDir")
     print(blankLine.value)
   }
 

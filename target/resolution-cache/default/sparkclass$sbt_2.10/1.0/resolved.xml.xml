@@ -4,7 +4,7 @@
 		module="sparkclass$sbt_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20171223085057"
+		publication="20171223135644"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
