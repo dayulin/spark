@@ -1,0 +1,11 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/sparkclass/sparkClass/src/main/resources/application.conf,/home/sparkclass/sparkClass/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/sparkclass/sparkClass/src/main/resources/log4j.properties,/home/sparkclass/sparkClass/target/scala-2.11/classes/log4j.properties)[0m
+[0m[[0mdebug[0m] [0m	(/home/sparkclass/sparkClass/src/main/resources/tutor,/home/sparkclass/sparkClass/target/scala-2.11/classes/tutor)[0m
+[0m[[0mdebug[0m] [0m	(/home/sparkclass/sparkClass/src/main/resources/tutor/2015-03-01-1.json,/home/sparkclass/sparkClass/target/scala-2.11/classes/tutor/2015-03-01-1.json)[0m
+[0m[[0mdebug[0m] [0m	(/home/sparkclass/sparkClass/src/main/resources/tutor/data_transactions.txt,/home/sparkclass/sparkClass/target/scala-2.11/classes/tutor/data_transactions.txt)[0m
+[0m[[0mdebug[0m] [0m	(/home/sparkclass/sparkClass/src/main/resources/tutor/ghEmployees.txt,/home/sparkclass/sparkClass/target/scala-2.11/classes/tutor/ghEmployees.txt)[0m
+[0m[[0mdebug[0m] [0m	(/home/sparkclass/sparkClass/src/main/resources/tutor/2015-03-01-0.json,/home/sparkclass/sparkClass/target/scala-2.11/classes/tutor/2015-03-01-0.json)[0m
+[0m[[0mdebug[0m] [0m	(/home/sparkclass/sparkClass/src/main/resources/tutor/2015-03-01-2.json,/home/sparkclass/sparkClass/target/scala-2.11/classes/tutor/2015-03-01-2.json)[0m
+[0m[[0mdebug[0m] [0m	(/home/sparkclass/sparkClass/src/main/resources/tutor/small.json,/home/sparkclass/sparkClass/target/scala-2.11/classes/tutor/small.json)[0m
+[0m[[0mdebug[0m] [0m	(/home/sparkclass/sparkClass/src/main/resources/tutor/data_products.txt,/home/sparkclass/sparkClass/target/scala-2.11/classes/tutor/data_products.txt)[0m

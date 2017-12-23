@@ -1,0 +1,687 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/sparkclass/sparkClass/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+21 items
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/CheckApp$.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/CheckApp.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/base$$anonfun$1.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/base$.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/base.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test01_readjson_filter$$anonfun$1.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test01_readjson_filter$$anonfun$2.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test01_readjson_filter$$typecreator1$1.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test01_readjson_filter$.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test01_readjson_filter.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02$$anonfun$1.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02$$anonfun$2.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02$$anonfun$3.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02$$typecreator1$1.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02$.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02_submatformat$$anonfun$1.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02_submatformat$$anonfun$2.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02_submatformat$$typecreator1$1.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02_submatformat$.class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> /home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02_submatformat.class
+binary dependencies:
+23 items
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> /home/sparkclass/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> /home/sparkclass/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> /home/sparkclass/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> /home/sparkclass/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> /home/sparkclass/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> /home/sparkclass/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> /home/sparkclass/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> /home/sparkclass/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> /home/sparkclass/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> /home/sparkclass/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> /home/sparkclass/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> /home/sparkclass/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> /home/sparkclass/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> /home/sparkclass/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> /home/sparkclass/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> /home/sparkclass/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> /home/sparkclass/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> /home/sparkclass/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+21 items
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> CheckApp
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> CheckApp$
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> exercise.base
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> exercise.base$
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> exercise.base$$anonfun$1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> exercise.test01_readjson_filter
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> exercise.test01_readjson_filter$
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> exercise.test01_readjson_filter$$anonfun$1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> exercise.test01_readjson_filter$$anonfun$2
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> exercise.test01_readjson_filter$$typecreator1$1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> exercise.test02
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> exercise.test02$
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> exercise.test02$$anonfun$1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> exercise.test02$$anonfun$2
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> exercise.test02$$anonfun$3
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> exercise.test02$$typecreator1$1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> exercise.test02_submatformat
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> exercise.test02_submatformat$
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> exercise.test02_submatformat$$anonfun$1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> exercise.test02_submatformat$$anonfun$2
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> exercise.test02_submatformat$$typecreator1$1
+used names:
+499 items
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> +
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> <init>
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> <repeated>
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> Any
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> AnyRef
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> Array
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> Builder
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> CheckApp
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> Column
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> DataFrame
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> DataFrameReader
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> Dataset
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> Int
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> Long
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> Object
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> Predef
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> RelationalGroupedDataset
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> Row
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> SparkSession
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> String
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> System
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> Unit
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> apache
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> appName
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> apply
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> builder
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> count
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> desc
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> filter
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> getOrCreate
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> getenv
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> githubLog
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> groupBy
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> grouped
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> homeDir
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> inputPath
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> java
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> json
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> lang
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> master
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> orderBy
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> ordered
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> org
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> package
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> printSchema
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> println
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> pushes
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> read
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> scala
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> show
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> spark
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> sql
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> *
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> <init>
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> A
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> Any
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> AnyRef
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> Array
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> B
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> CanBuildFrom
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> Coll
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> Function1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> Inclusive
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> IndexedSeq
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> Int
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> Nothing
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> Object
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> Predef
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> Range
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> RichInt
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> String
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> That
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> Unit
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> base
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> canBuildFrom
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> exercise
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> i
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> immutable
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> intWrapper
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> map
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> scala
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> to
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> $m
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> $m$untyped
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> $typecreator1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> $u
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> +
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> ++
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> <init>
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> <repeated>
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> ?0
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> A
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> A1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Any
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> AnyRef
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Array
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> B
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Boolean
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> BufferedSource
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Builder
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> ClassLoader
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Codec
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Column
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> ColumnName
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> DataFrame
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> DataFrameReader
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Dataset
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Function1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> GenTraversableOnce
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Int
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Internal
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Iterator
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> JavaUniverse
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> List
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Long
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Mirror
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> ModuleSymbol
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Nil
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Nothing
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Object
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Predef
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> RT
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> ReificationSupportApi
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> RelationalGroupedDataset
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Row
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Set
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> SingleType
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Singleton
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Source
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> SparkSession
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> String
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Symbol
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> System
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> T
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> T0
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> ThisType
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Type
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> TypeCreator
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> TypeRef
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> TypeSymbol
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> TypeTag
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> U
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> UDFRegistration
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Unit
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> Universe
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> UserDefinedFunction
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> _root_
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> apache
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> appName
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> apply
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> asInstanceOf
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> asModule
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> builder
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> ccc
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> contains
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> count
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> desc
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> emppath
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> empss
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> exercise
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> fallbackSystemCodec
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> filter
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> fromFile
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> getClass
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> getClassLoader
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> getLines
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> getOrCreate
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> getenv
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> githublog
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> groupBy
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> groups1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> homeDir
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> immutable
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> implicits
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> inputPath
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> internal
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> io
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> isemp
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> java
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> json
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> lang
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> line
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> map
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> master
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> materializeTypeTag
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> moduleClass
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> name
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> order1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> order2
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> orderBy
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> org
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> package
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> println
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> pushes
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> read
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> reflect
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> register
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> reificationSupport
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> runtime
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> runtimeMirror
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> scala
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> selectType
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> show
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> spark
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> sql
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> staticModule
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> staticPackage
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> symbolToColumn
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> test01_readjson_filter
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> trim
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> udf
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> universe
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> where
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> $
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> $m
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> $m$untyped
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> $typecreator1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> $u
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> +
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> ++
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> <init>
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> <repeated>
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> ?0
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> A
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> A1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Any
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> AnyRef
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Array
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> B
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Boolean
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Broadcast
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> BufferedSource
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Builder
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Catalog
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> ClassLoader
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> ClassTag
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Codec
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Column
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> ColumnName
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> DataFrame
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> DataFrameReader
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Dataset
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Function
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Function1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> GenTraversableOnce
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Int
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Internal
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Iterator
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> JavaUniverse
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> List
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Mirror
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> ModuleSymbol
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Nil
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Nothing
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Object
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Predef
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> RT
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> ReificationSupportApi
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> RelationalGroupedDataset
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Row
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Set
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> SingleType
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Singleton
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Source
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> SparkContext
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> SparkSession
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> String
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> StringContext
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> StringToColumn
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Symbol
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> System
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> T
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> T0
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> ThisType
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Type
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> TypeCreator
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> TypeRef
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> TypeSymbol
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> TypeTag
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> U
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> UDFRegistration
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Unit
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> Universe
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> UserDefinedFunction
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> _$7
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> _root_
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> apache
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> appName
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> apply
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> asInstanceOf
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> asModule
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> broadcast
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> builder
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> catalog
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> contains
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> count
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> desc
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> em2
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> em2list
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> emppath
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> emppath2
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> empss
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> empss2
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> exercise
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> fallbackSystemCodec
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> fiilter
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> filter
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> fromFile
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> getClass
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> getClassLoader
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> getLines
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> getOrCreate
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> getenv
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> githublog
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> groupBy
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> groups1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> homeDir
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> immutable
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> implicits
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> inputPath
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> internal
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> io
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> isemp
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> isemps
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> java
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> json
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> lang
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> line
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> listFunctions
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> map
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> master
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> materializeClassTag
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> materializeTypeTag
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> moduleClass
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> name
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> orderBy
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> orders
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> org
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> package
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> println
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> pushes
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> read
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> reflect
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> register
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> reificationSupport
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> runtime
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> runtimeMirror
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> scala
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> selectType
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> show
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> spark
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> sparkContext
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> sql
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> staticModule
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> staticPackage
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> test02
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> trim
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> udf
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> universe
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> value
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> $
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> $m
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> $m$untyped
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> $typecreator1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> $u
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> ++
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> <init>
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> <repeated>
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> ?0
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> A
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> A1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Any
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> AnyRef
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Array
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> B
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Boolean
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Broadcast
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> BufferedSource
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Builder
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Class
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> ClassLoader
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> ClassTag
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Codec
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Column
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> ColumnName
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> DataFrame
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> DataFrameReader
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> DataFrameWriter
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Dataset
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Function1
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> GenTraversableOnce
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Int
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Internal
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Iterator
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> JavaUniverse
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> List
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Mirror
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> ModuleSymbol
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Nil
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Nothing
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Object
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Predef
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> RT
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> ReificationSupportApi
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> RelationalGroupedDataset
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Row
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Set
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> SingleType
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Singleton
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Source
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> SparkContext
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> SparkSession
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> String
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> StringContext
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> StringToColumn
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Symbol
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> T
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> T0
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> ThisType
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Type
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> TypeCreator
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> TypeRef
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> TypeSymbol
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> TypeTag
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> U
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> UDFRegistration
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Unit
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> Universe
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> UserDefinedFunction
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> _$7
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> _root_
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> apache
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> appName
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> apply
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> args
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> asInstanceOf
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> asModule
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> broadcast
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> builder
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> contains
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> count
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> desc
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> emppath
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> empss
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> exercise
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> fallbackSystemCodec
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> fiilteed
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> filter
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> format
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> fromFile
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> getClass
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> getClassLoader
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> getLines
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> getOrCreate
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> githublog
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> groupBy
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> grouped
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> immutable
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> implicits
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> inputPath
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> internal
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> io
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> isemp
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> isemps
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> json
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> line
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> map
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> master
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> materializeClassTag
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> materializeTypeTag
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> moduleClass
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> name
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> orderBy
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> ordered
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> org
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> package
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> pushes
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> read
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> reflect
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> register
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> reificationSupport
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> runtime
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> runtimeMirror
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> save
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> sc
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> scala
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> selectType
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> spark
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> sparkContext
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> sql
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> staticModule
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> staticPackage
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> test02_submatformat
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> trim
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> udf
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> universe
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> write
+product stamps:
+21 items
+/home/sparkclass/sparkClass/target/scala-2.11/classes/CheckApp$.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/CheckApp.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/base$$anonfun$1.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/base$.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/base.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test01_readjson_filter$$anonfun$1.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test01_readjson_filter$$anonfun$2.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test01_readjson_filter$$typecreator1$1.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test01_readjson_filter$.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test01_readjson_filter.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02$$anonfun$1.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02$$anonfun$2.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02$$anonfun$3.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02$$typecreator1$1.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02$.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02.class -> lastModified(1513491891000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02_submatformat$$anonfun$1.class -> lastModified(1513494120000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02_submatformat$$anonfun$2.class -> lastModified(1513494120000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02_submatformat$$typecreator1$1.class -> lastModified(1513494120000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02_submatformat$.class -> lastModified(1513494120000)
+/home/sparkclass/sparkClass/target/scala-2.11/classes/exercise/test02_submatformat.class -> lastModified(1513494120000)
+source stamps:
+5 items
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> hash(ab534b3788c1a46c29c3a6bdda10bbb5857aad88)
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> hash(d4ada1690b4127a8bd353751701d96e0ffc2d2b8)
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> hash(f17458bd251d9d3e97c959203d0e0b31ad8e7b42)
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> hash(51712304877601e1dc4d4874872fc0c64e8ef8da)
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> hash(b9e9b0ab897fcb0cb8c1e2cb21c1d57351d2601d)
+binary stamps:
+6 items
+/home/sparkclass/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar -> lastModified(1478576760000)
+/home/sparkclass/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar -> lastModified(1478576545000)
+/home/sparkclass/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar -> lastModified(1478576896000)
+/home/sparkclass/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/home/sparkclass/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar -> lastModified(1457105200000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1487892675000)
+class names:
+6 items
+/home/sparkclass/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.2.jar -> org.apache.spark.sql.Row
+/home/sparkclass/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.2.jar -> org.apache.spark.broadcast.Broadcast
+/home/sparkclass/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.2.jar -> org.apache.spark.sql.package$
+/home/sparkclass/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.reflect.ClassTag$
+/home/sparkclass/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+5 items
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwVFlEdwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwfyr8jnQABm5vdGlmeXNxAH4ADKylg9x0AAR3YWl0c3EAfgAMirInVHQADSRhc0luc3RhbmNlT2ZzcQB+AAwrz1OMdAAGZXF1YWxzc3EAfgAMm7GeUHQADGFzSW5zdGFuY2VPZnNxAH4ADNUWv/F0AAxzeW5jaHJvbml6ZWRzcQB+AAyaQOfsdAANJGlzSW5zdGFuY2VPZnNxAH4ADEgrem50AARtYWluc3EAfgAMlupX7nQACW5vdGlmeUFsbHNxAH4ADJzEZ0d0AAxpc0luc3RhbmNlT2ZzcQB+AAxFRlCjdAACPT1zcQB+AAxqeFO+dAAFY2xvbmVzcQB+AAw3icFDdAAIdG9TdHJpbmdzcQB+AAw/azHpdAACIT1zcQB+AAwMBzPZdAAIZ2V0Q2xhc3NzcQB+AAyQAN6IdAAIQ2hlY2tBcHBzcQB+AAwC+fPXdAACbmVzcQB+AAwDO42mdAACZXFzcQB+AAz/Mn6QdAACIyNzcQB+AAyT4ENSdAAIZmluYWxpemVzcQB+AAw/f2P9dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AC11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBdc3EAfgBYdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBQAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFx0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBcc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB4dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AU3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXHNxAH4Aa3QABUFycmF5cQB+AHF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Aa3QABlN0cmluZ3NxAH4Ab3NxAH4AcnVxAH4AdQAAAANzcQB+AHd0AARqYXZhc3EAfgB3dAAEbGFuZ3EAfgB8c3EAfgBYdXEAfgA8AAAAAHNxAH4AWHVxAH4AkAAAAAJzcQB+AGt0AAZPYmplY3RxAH4AlHNxAH4Aa3QAA0FueXEAfgBxdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWBjJXNmdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQANS9ob21lL3NwYXJrY2xhc3Mvc3BhcmtDbGFzcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUq1NLN4jBpGwpw6a92hC7tYV6rYg=
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwM1vr1QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwcI8RLXQABm5vdGlmeXNxAH4ADLpLGm90AAR3YWl0c3EAfgAMGd4wpXQADSRhc0luc3RhbmNlT2ZzcQB+AAyLjrAzdAAGZXF1YWxzc3EAfgAMNI2z7HQADGFzSW5zdGFuY2VPZnNxAH4ADPUA0yJ0AAxzeW5jaHJvbml6ZWRzcQB+AAy+ALnCdAANJGlzSW5zdGFuY2VPZnNxAH4ADFmLJkd0AARtYWluc3EAfgAMss24fXQACW5vdGlmeUFsbHNxAH4ADIrRBsB0AARiYXNlc3EAfgAMw+ZfQXQADGlzSW5zdGFuY2VPZnNxAH4ADBdDN3V0AAI9PXNxAH4ADPmGlkh0AAVjbG9uZXNxAH4ADFKEAAp0AAh0b1N0cmluZ3NxAH4ADLx9HnJ0AAIhPXNxAH4ADPfjNDV0AAhnZXRDbGFzc3NxAH4ADJRxjBl0AAJuZXNxAH4ADFhN1ed0AAJlcXNxAH4ADASVE2d0AAIjI3NxAH4ADHCQuMB0AAhmaW5hbGl6ZXNxAH4ADN6V/b50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA1leGVyY2lzZS5iYXNldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACGV4ZXJjaXNlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFgYyVzZnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADUvaG9tZS9zcGFya2NsYXNzL3NwYXJrQ2xhc3MvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNStoWkLQSeovTU3UXAdluD/wtK4
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwkUHKeQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtS7F23QABm5vdGlmeXNxAH4ADMQd9Id0AAR3YWl0c3EAfgAMZMLCQHQADSRhc0luc3RhbmNlT2ZzcQB+AAw3bshidAAGZXF1YWxzc3EAfgAMNwWbLHQADGFzSW5zdGFuY2VPZnNxAH4ADPC9Yjh0AAxzeW5jaHJvbml6ZWRzcQB+AAxkNdHCdAANJGlzSW5zdGFuY2VPZnNxAH4ADNhncN10AARtYWluc3EAfgAMcP9wX3QACW5vdGlmeUFsbHNxAH4ADLxKLhl0AAxpc0luc3RhbmNlT2ZzcQB+AAx4AuGGdAACPT1zcQB+AAxJf1q5dAAFY2xvbmVzcQB+AAwUhZoKdAAIdG9TdHJpbmdzcQB+AAyYT6G9dAAWdGVzdDAxX3JlYWRqc29uX2ZpbHRlcnNxAH4ADKfkKLV0AAIhPXNxAH4ADFUjbR10AAhnZXRDbGFzc3NxAH4ADErMqRN0AAJuZXNxAH4ADPgdMMt0AAJlcXNxAH4ADOHDEOV0AAIjI3NxAH4ADHQDv1l0AAhmaW5hbGl6ZXNxAH4ADH6tItx0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AB9leGVyY2lzZS50ZXN0MDFfcmVhZGpzb25fZmlsdGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACGV4ZXJjaXNlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFgYyVzZnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADUvaG9tZS9zcGFya2NsYXNzL3NwYXJrQ2xhc3MvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPF0WL0lHZ0+l8lZID0OCzGtjntC
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwKvPJDwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwKgebcXQABm5vdGlmeXNxAH4ADA1tRcZ0AAR3YWl0c3EAfgAM4Re/inQADSRhc0luc3RhbmNlT2ZzcQB+AAyAC+8ddAAGZXF1YWxzc3EAfgAMU3LgfHQADGFzSW5zdGFuY2VPZnNxAH4ADKlaM3x0AAxzeW5jaHJvbml6ZWRzcQB+AAxv+iDWdAANJGlzSW5zdGFuY2VPZnNxAH4ADFrR+jl0AARtYWluc3EAfgAM+0yiXHQACW5vdGlmeUFsbHNxAH4ADONQqmF0AAxpc0luc3RhbmNlT2ZzcQB+AAxUOQC8dAACPT1zcQB+AAzcD0zwdAAFY2xvbmVzcQB+AAxfKRYgdAAIdG9TdHJpbmdzcQB+AAwwRX+FdAACIT1zcQB+AAzoFH27dAAIZ2V0Q2xhc3NzcQB+AAzoIZZSdAACbmVzcQB+AAwvgIh0dAAGdGVzdDAyc3EAfgAMi8rDx3QAAmVxc3EAfgAM1rWgEXQAAiMjc3EAfgAMFJ2JfXQACGZpbmFsaXplc3EAfgAMi+xSunQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAD2V4ZXJjaXNlLnRlc3QwMnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF5zcQB+AFl1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHl1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBmeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBtWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBdc3EAfgBsdAAFQXJyYXlxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBsdAAGU3RyaW5nc3EAfgBwc3EAfgBzdXEAfgB2AAAAA3NxAH4AeHQABGphdmFzcQB+AHh0AARsYW5ncQB+AH1zcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXEAfgCRAAAAAnNxAH4AbHQABk9iamVjdHEAfgCVc3EAfgBsdAADQW55cQB+AHJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhleGVyY2lzZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYGMlc2Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA1L2hvbWUvc3BhcmtjbGFzcy9zcGFya0NsYXNzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRRcSMEh3YB4dxNSHSHL8DGTo742g==
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwlKIjCAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw23C3H3QABm5vdGlmeXNxAH4ADMxGTcR0AAR3YWl0c3EAfgAM/yn1X3QADSRhc0luc3RhbmNlT2ZzcQB+AAwT5LZwdAAGZXF1YWxzc3EAfgAMV2+N7nQADGFzSW5zdGFuY2VPZnNxAH4ADLudG4x0AAxzeW5jaHJvbml6ZWRzcQB+AAxH45SadAANJGlzSW5zdGFuY2VPZnNxAH4ADGxrtIF0AARtYWluc3EAfgAMqxuG73QACW5vdGlmeUFsbHNxAH4ADFYGHmR0AAxpc0luc3RhbmNlT2ZzcQB+AAwOXuUYdAACPT1zcQB+AAyFSPqxdAAFY2xvbmVzcQB+AAxSc4P+dAAIdG9TdHJpbmdzcQB+AAyDyOLadAATdGVzdDAyX3N1Ym1hdGZvcm1hdHNxAH4ADBAZ2Bh0AAIhPXNxAH4ADG/j2tR0AAhnZXRDbGFzc3NxAH4ADICS6+l0AAJuZXNxAH4ADMANAzx0AAJlcXNxAH4ADHVxVQ50AAIjI3NxAH4ADHIjJw50AAhmaW5hbGl6ZXNxAH4ADPWZK1t0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABxleGVyY2lzZS50ZXN0MDJfc3VibWF0Zm9ybWF0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACGV4ZXJjaXNlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFgY0d6+3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADUvaG9tZS9zcGFya2NsYXNzL3NwYXJrQ2xhc3MvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLnpsKuJf8sMuMHiyyHB1XNR0mAd
+external apis:
+0 items
+source infos:
+5 items
+/home/sparkclass/sparkClass/src/main/scala-2.11/CheckApp.scala -> 
+AAAAAAAAAAA=
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/base.scala -> 
+AAAAAAAAAAA=
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test01_readjson_filter.scala -> 
+AAAAAAAAAAA=
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02.scala -> 
+AAAAAAAAAAA=
+/home/sparkclass/sparkClass/src/main/scala-2.11/exercise/test02_submatformat.scala -> 
+AAAAAAAAAAA=
+compilations:
+5 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWnM5qJN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANS9ob21lL3NwYXJrY2xhc3Mvc3BhcmtDbGFzcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYERAZcd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANS9ob21lL3NwYXJrY2xhc3Mvc3BhcmtDbGFzcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYGMlc2Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANS9ob21lL3NwYXJrY2xhc3Mvc3BhcmtDbGFzcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYGNFkX11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANS9ob21lL3NwYXJrY2xhc3Mvc3BhcmtDbGFzcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYGNHevt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANS9ob21lL3NwYXJrY2xhc3Mvc3BhcmtDbGFzcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
